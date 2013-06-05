@@ -1,0 +1,17 @@
+#Development
+
+.buildpath
+.project
+.pydevproject
+
+html/data/data.json
+
+# Python
+
+*.py[cod]
+*.annotations.json
+*.object.json
+*.instance.json
+*.work.json
+
+
