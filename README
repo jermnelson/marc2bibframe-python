@@ -19,6 +19,9 @@ will require python-dev to build.)
 
 Changes
 
+	Jun 5 2013
+		Moved out of marc2bibframe repository.
+
 	Dec 6 2012
 		Initial publication.
 		
