@@ -1,9 +1,9 @@
 Python to convert MARC/XML Bibliographic records to BIBFRAME resources.
 
-This python was initially developed by Zepheira LLC.  This transformation
-is under development and does not at this time represent a canonical 
-transformation of MARC Bib data to BIBFRAME resources. It is made 
-available for evaluation and comment.
+This python version was initially developed by Zepheira LLC.  This 
+transformation is under development and does not at this time represent 
+a canonical transformation of MARC Bib data to BIBFRAME resources. It is 
+made available for evaluation and comment.
 
 The script outputs four JSON files.  The JSON is designed to be used
 with Simile Exhibit.   The script can be run simply as:
